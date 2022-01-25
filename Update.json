@@ -1,5 +1,5 @@
 {
-	"version": "15.0",
-	"changelog": "— Rebase to Instagram 215.0.0.27.359;\n— Added Link sticker;\n— Added Add yours sticker;\n— Video scrubber is forced on;\n— Remove Video scrubber option;\n— Temporarily not added Mark as read in direct;\n— Temporarily not added download IGTV;\n— Attention ads in Old posts is present.;\n— Enjoy (#KeepEvolving)",
-		"link": "https://index.fastlinkgenbot.workers.dev/0:/FastLinks/Instander%2015.0%20By%20Sahil%20Ansari.apk"
+	"version": "15.3",
+	"changelog": "— Added IGTV download item;\n— Added Mark as Read;\n— Added quick turn on "Don't mark Direct as read" (long press direct button);\n— Added backups of Instander settings;\n— Added Instander menu (download, preview, direct link to post);\n—Ads switch fixed;\n— Ads switch fixed;\n— Enjoy (#KeepEvolving)",
+		"link": "https://cbot-stream.herokuapp.com/543"
 }
