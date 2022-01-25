@@ -1,6 +1,5 @@
 {
 	"version": "15.4",
-	"changelog": "— Fixed random crash on Samsung with One UI 4;\n— Fixed crash Mark as read on some phones;\n— Rebuild application using the latest tools.",
-	"changelog-ru": "— Исправлен случайный сбой на Samsung с One UI 4;\n— Исправлена ошибка Пометить как прочитанное на некоторых телефонах;\n— Пересборка приложения, с использованием новейших инструментов.",
+	"changelog": "— Fixed random crash on Samsung with One UI 4;\n— Fixed crash Mark as read on some phones;\n— Rebuild application using the latest tools.;\n— Added backups of Instander settings.",
 	"link": "https://cbot-stream.herokuapp.com/545"
 }
